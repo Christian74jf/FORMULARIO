@@ -2,7 +2,7 @@
   box-sizing: border-box;   font-family: 'Segoe UI', sans-serif; 
 } 
  
-body {   background-color: #5bb7f5;   margin: 0;   padding: 20px; 
+body {   background-color: #006eff;   margin: 0;   padding: 20px; 
 } 
 .form-container {   max-width: 700px;   margin: auto;   background-color: #d7ff46;   padding: 30px;   border-radius: 15px;   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 } 
