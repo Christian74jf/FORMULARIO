@@ -10,7 +10,7 @@ body {   background-color: #5bb7f5;   margin: 0;   padding: 20px;
 h1 {   text-align: center;   color: #003366; 
 } 
  
-form fieldset {   border: 1px solid #ccc;   padding: 20px;   margin-bottom: 20px;   border-radius: 10px; 
+form fieldset {   border: 1px solid #0a531a;   padding: 20px;   margin-bottom: 20px;   border-radius: 10px; 
 } 
  
 legend {   font-weight: bold;   color: #003366; 
